@@ -1,0 +1,6 @@
+<resources>
+    <!-- esta es el id de la aplicacion para que funcione el banner-->
+    <string name="banner_ad_unit_id">ca-app-pub-5527872171596224/9261212597</string>
+
+    <string name="app_name">Pensum_Version1.0</string>
+</resources>
